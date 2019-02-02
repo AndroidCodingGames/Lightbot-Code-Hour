@@ -12,4 +12,12 @@
         <td><img src="1_1.png" /></td>
         <td><img src="1_2.png" /></td>
     </tr>
+    <tr align="center" valign="middle">
+        <td><h3>Basics - 3</h3></td>
+        <td><h3>Basics - 4</h3></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <td><img src="1_3.png" /></td>
+        <td><img src="1_4.png" /></td>
+    </tr>
 </table>
