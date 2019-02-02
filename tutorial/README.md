@@ -11,4 +11,7 @@
         <td align="center" valign="middle"> <img src="tut_04.png" alt="turn right"> </td>
         <td align="center" valign="middle"> <img src="tut_05.png" alt="jump"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_06.png" alt="jump down"> </td>
+    </tr>
 </table>
