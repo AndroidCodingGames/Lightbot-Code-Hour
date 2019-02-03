@@ -13,5 +13,10 @@
     </tr>
     <tr>
         <td align="center" valign="middle"> <img src="tut_06.png" alt="jump down"> </td>
+        <td align="center" valign="middle"> <img src="tut_07.png" alt="extra slots"> </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_08.png" alt="proc 1"> </td>
+        <td align="center" valign="middle"> <img src="tut_09.png" alt="proc 1 cmds"> </td>
     </tr>
 </table>
