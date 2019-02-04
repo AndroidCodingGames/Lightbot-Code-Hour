@@ -28,4 +28,12 @@
         <td><img src="1_5.png" /></td>
         <td><img src="1_6.png" /></td>
     </tr>
+    <tr align="center" valign="middle">
+        <td><h3>Basics - 7</h3></td>
+        <td><h3>Basics - 8</h3></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <td><img src="1_7.png" /></td>
+        <td><img src="1_8.png" /></td>
+    </tr>
 </table>
