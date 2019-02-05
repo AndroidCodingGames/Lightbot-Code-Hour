@@ -19,4 +19,7 @@
         <td align="center" valign="middle"> <img src="tut_08.png" alt="proc 1"> </td>
         <td align="center" valign="middle"> <img src="tut_09.png" alt="proc 1 cmds"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_10.png" alt="using proc 1"> </td>
+    </tr>
 </table>
