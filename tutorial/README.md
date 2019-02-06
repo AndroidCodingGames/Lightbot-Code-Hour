@@ -21,5 +21,10 @@
     </tr>
     <tr>
         <td align="center" valign="middle"> <img src="tut_10.png" alt="using proc 1"> </td>
+        <td align="center" valign="middle"> <img src="tut_11.png" alt="patterns of commands"> </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_12.png" alt="reuse commands"> </td>
+        <td align="center" valign="middle"> <img src="tut_13.png" alt="proc 2"> </td>
     </tr>
 </table>
