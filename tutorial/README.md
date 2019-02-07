@@ -27,4 +27,7 @@
         <td align="center" valign="middle"> <img src="tut_12.png" alt="reuse commands"> </td>
         <td align="center" valign="middle"> <img src="tut_13.png" alt="proc 2"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_14.png" alt="P2 in P1"> </td>
+    </tr>
 </table>
