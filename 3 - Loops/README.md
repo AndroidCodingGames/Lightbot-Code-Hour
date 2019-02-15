@@ -12,4 +12,12 @@
         <td><img src="3_1.png" /></td>
         <td><img src="3_2.png" /></td>
     </tr>
+    <tr align="center" valign="middle">
+        <td><h3>Loops - 3</h3></td>
+        <td><h3>Loops - 4</h3></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <td><img src="3_3.png" /></td>
+        <td><img src="3_4.png" /></td>
+    </tr>
 </table>
