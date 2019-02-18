@@ -29,5 +29,9 @@
     </tr>
     <tr>
         <td align="center" valign="middle"> <img src="tut_14.png" alt="P2 in P1"> </td>
+        <td align="center" valign="middle"> <img src="tut_15.png" alt="Recursion"> </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_16.png" alt="recursion"> </td>
     </tr>
 </table>
